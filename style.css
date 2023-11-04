@@ -1,0 +1,37 @@
+h1 {
+    color: #691445;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif
+}
+p {
+    color: #3b0326;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+sissejuhatus.img {
+    border: 2px solid #6e0658;
+    box-shadow: 3px 3px 3px #3a0b26;
+}
+th {
+    background-color: #cdf3f1;
+    font-weight: 400;
+}
+.bold-pealkiri {
+    font-weight: bold;
+}
+body {
+    background-color: #d7f3f2;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.vasak_tulp {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.parem_tulp {
+    flex: 1;
+}
