@@ -1,2 +1,2 @@
 # Sissejuhatus erialasse seminarid
-Lisan siia Sissejuhatus erialasse seminarida raames tehtud töid.
+Lisan siia Sissejuhatus erialasse seminaride raames tehtud töid.
